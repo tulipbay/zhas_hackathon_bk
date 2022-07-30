@@ -1,6 +1,761 @@
-aaaaa
-ya hochu kushat'
-YA TOZHE
-go pokushaem v discovery
-tam zhe dorogo net???? 
-oi tochno ya bezdenezhnaya((
+<html>
+<head>
+	<script type="text/javascript">
+		// $('.cities a').on("click", function(){
+		// 	let href=$(this).attr('href');
+		// 	$("html, body").animate({
+		// 		scrollTop: $(href).offset().top},
+		// 		{
+		// 			duration:500,
+		// 			easing:"linear"
+		// 		});
+		// 	return false;
+		// 	});
+		
+	</script>
+</head>
+<body>
+<div class="home">
+	<img id="homeimg" src="https://clck.ru/gd2RQ">
+	<img class="homeimg1" src="https://clck.ru/gd2dW">
+</div>	
+<div class="main">
+		<div class="a">
+		<h1 class="heading">KEEP IT FRESH</h1>
+		<h3 class="subheading1">Keep It Fresh - онлайн косметичка. Твой путеводитель в beauty-мир</h3>
+		<h3 class="subheading"><a href ="#cities">Выбери продукт</a></h3>	
+	</div>
+	<div id="cities">
+		<div id="city">
+			<div class="cityhead">
+				<h1 class="citytext"> Salamanca </h1>
+				<h3 class="citytext1"> Madrid </h3>
+				<img id='imgcity1' src="https://clck.ru/ep5jc" onClick="imgsrc()">
+			</div>
+		</div>
+		<div id="city">
+			<div class="cityhead">
+				<h1 class="citytext"> Downtown </h1>
+				<h3 class="citytext1"> Budapest </h3>
+				<img id="imgcity1" src="https://clck.ru/h7TfG">
+			</div>
+		</div>
+		<div id="city">
+			<div class="cityhead">
+				<h1 class="citytext"> South Park </h1>
+				//<h3 class="citytext1"> San Diego </h3>
+				<img id="imgcity1" src="https://clck.ru/hE2S6">
+			</div>
+		</div>
+		<div id="city">
+			<div class="cityhead">
+
+
+				<h1 class="citytext"> Ginza </h1>
+
+
+				<h3 class="citytext1"> Tokyo </h3>
+
+
+				<img id="imgcity1" src="https://clck.ru/ept4j">
+
+
+			</div>
+
+
+		</div>
+
+
+		<div id="city">
+
+
+			<div class="cityhead">
+
+
+				<h1 class="citytext"> Roncesvalles </h1>
+
+
+				<h3 class="citytext1"> Toronto </h3>
+
+
+				<img id="imgcity1" src="https://s3.amazonaws.com/crowdriff-media/full/984d1abdde4c333bb26d264cb464d9b0d97d3d725556bc3b7be7c2f49135434e.jpg">		
+
+
+			</div>
+
+
+		</div>
+
+
+		<div id="city">
+
+
+			<div class="cityhead">
+
+
+				<h1 class="citytext"> Kreis 4 </h1>
+
+
+				<h3 class="citytext1"> Zurich </h3>
+
+
+				<img id="imgcity1" src="https://clck.ru/ept5M">
+
+
+			</div>
+
+
+		</div>
+
+
+	</div>
+
+
+</div>
+
+
+<div>
+
+<div class="cityline">
+	<div class="city2">
+		<a href="aberdeen.html">
+		<h2 class="city2text">Aberdeen</h2>
+		<h3 class="city2text1">United Kingdom</h3>
+		<img id="cityimg" src="https://clck.ru/h7Ryj">
+		</a>
+	</div>
+
+
+	<div class="city2">
+		<a href ="amsterdam.html">
+		<h2 class="city2text">Amsterdam</h2>
+		<h3 class="city2text1">Netherlands</h3>
+		<img id="cityimg" src="https://clck.ru/h7Rkc">
+
+		</a>
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="athens.html">
+		<h2 class="city2text">Athens</h2>
+		<h3 class="city2text1">Greece</h3>
+		<img id="cityimg" src="https://clck.ru/h7SCv">
+
+		</a>
+	</div>
+
+
+	<div class="city2">
+		<a href ="atlanta.html">
+		<h2 class="city2text">Atlanta</h2>
+		<h3 class="city2text1">Georgia, USA</h3>
+		<img id="cityimg" src="https://clck.ru/h7SPb">
+
+		</a>
+	</div>
+
+
+	<div class="city2">
+		<a href ="austin.html">
+		<h2 class="city2text">Austin</h2>
+		<h3 class="city2text1">Texas, USA</h3>
+		<img id="cityimg" src="https://clck.ru/h7SXG">
+
+		</a>
+	</div>
+
+
+	<div class="city2">
+		<a href ="aveiro.html">
+		<h2 class="city2text">Aveiro</h2>
+		<h3 class="city2text1">Portugal</h3>
+		<img id="cityimg" src="https://clck.ru/h7Sd2">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="baltimore.html">
+		<h2 class="city2text">Baltimore</h2>
+		<h3 class="city2text1">Maryland, USA</h3>
+		<img id="cityimg" src="https://clck.ru/h7SsD">
+
+		</a>
+</div>
+
+	</div>
+
+<div class="cityline">
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Barcelona</h2>
+		<h3 class="city2text1">Spain</h3>
+		<img id="cityimg" src="https://clck.ru/h7Svn">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Beirut</h2>
+		<h3 class="city2text1">Lebanon</h3>
+		<img id="cityimg" src="https://clck.ru/h7Sxo">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Belgrade</h2>
+		<h3 class="city2text1">Serbia</h3>
+		<img id="cityimg" src="https://clck.ru/h7SzF">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Berlin</h2>
+		<h3 class="city2text1">Germany</h3>
+		<img id="cityimg" src="https://clck.ru/h7T4j">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Birmingham</h2>
+		<h3 class="city2text1">Alabama, USA</h3>
+		<img id="cityimg" src="https://clck.ru/h7TBp">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Bogotá</h2>
+		<h3 class="city2text1">Colombia</h3>
+		<img id="cityimg" src="https://clck.ru/h7TFE">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Boston</h2>
+		<h3 class="city2text1">Massachuessets, USA</h3>
+		<img id="cityimg" src="https://clck.ru/h7TJt">
+
+		</a>
+</div>
+
+	</div>
+
+<div class="cityline">
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Bournemouth</h2>
+		<h3 class="city2text1">United Kingdom</h3>
+		<img id="cityimg" src="https://clck.ru/h7TLb">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Brighton</h2>
+		<h3 class="city2text1">United Kingdom</h3>
+		<img id="cityimg" src="https://clck.ru/h7TNo">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Brisbane</h2>
+		<h3 class="city2text1">Australia</h3>
+		<img id="cityimg" src="https://clck.ru/h7TQR">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Brooklyn</h2>
+		<h3 class="city2text1">New York, USA</h3>
+		<img id="cityimg" src="https://clck.ru/h7TUq">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Budapest</h2>
+		<h3 class="city2text1">Hungary</h3>
+		<img id="cityimg" src="https://clck.ru/h7TWw">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Buenos Aires</h2>
+		<h3 class="city2text1">Argentina</h3>
+		<img id="cityimg" src="https://clck.ru/h7TYE">
+
+		</a>
+
+
+	</div>
+
+
+	<div class="city2">
+		<a href ="">
+		<h2 class="city2text">Cape Town</h2>
+		<h3 class="city2text1">South Africa</h3>
+		<img id="cityimg" src="https://clck.ru/h7Ta7">
+
+		</a>
+
+</div>
+	</div>
+
+</div>	
+
+
+</body>
+
+
+<style>
+	a{
+		color: white;
+		text-decoration: none;
+
+	}
+	
+	#homeimg{
+		height: 70px;
+
+	}
+	.homeimg1{
+		height: 40px;
+		margin-left: 20px;
+
+	}
+	.homeimg1: hover{
+		opacity: 50%;
+	}
+
+	.home{
+
+		display: flex;
+
+		align-items: center;
+
+
+		height: 70px;
+
+
+		width: 100%;
+
+
+		border: 1px solid #000066;
+
+
+		background-color: white;
+
+
+		color: #000066;
+
+
+		position: fixed;
+
+
+		top: 0px;
+
+
+		left: 0px;
+
+
+	}
+
+
+	.main{
+
+
+		height: 950px;
+
+
+		/*width: 1900px;*/
+		width: 100%;
+
+
+		/*border: 1px solid white;*/
+
+
+	}
+	.a{
+		position: fixed;
+		/*border: 1px solid white;*/
+		text-align: center;
+		justify-content: center;
+		margin-left: auto;
+    	margin-right: auto;
+    	margin-top: auto;
+    	margin-bottom: auto;
+    	width: 60%;
+    	height: 40%;
+    	top: 35%;
+    	left: 20%;
+	}
+
+
+	.heading{
+		/*display: block;*/
+		margin-left: auto;
+    	
+    	margin-right: auto;
+
+
+		position: relative;
+
+
+		/*top: 40%;
+
+
+		left: 32%;*/
+		width: 100%;
+
+
+		text-align: center;
+		justify-content: center;
+
+
+		color: white;
+
+
+		font-size: 400%;
+
+
+	}
+	.subheading1{
+		/*display: block;
+*/		margin-left: auto;
+    	margin-right: auto;
+
+		width: 600px;
+
+
+		height: 25px;
+
+
+		position: relative;
+
+
+		/*top: 51%;
+
+
+		left: 35%;*/
+
+
+		text-align: center;
+
+
+		color: white;
+
+
+	}
+
+
+	.subheading{
+		/*display: block;*/
+
+
+		width: 150px;
+
+
+		height: 25px;
+
+
+		border: 1px solid white;
+
+
+		position: relative;
+
+/*
+		top: 60%;
+
+
+		left: 47%;*/
+
+
+		text-align: center;
+
+
+		color: white;
+		margin-left: auto;
+    	margin-right: auto;
+    	margin-top: 10%;
+
+
+
+
+
+	}
+	.subheading:hover{
+		color: #000066;
+		background-color: white;
+	}
+
+
+	#cities{
+
+
+		display: flex;
+		align-items: center;
+
+		width: 100%;
+		flex-direction: row;
+
+
+	}
+	.cityline{
+		display: flex;
+		width: 100%;
+	}
+
+	#city{
+
+
+		float: left;
+
+
+		position: relative;
+
+
+		top: 900px;
+
+
+		width: /*312px;*/100%;
+
+
+		height: 350px;
+
+
+		border: 1px solid white;
+
+
+		background-color: #000066;
+
+
+		color: white;
+
+
+	}
+
+
+	.cityhead{
+
+
+		height: 90px;
+
+
+		border: 1px solid white;
+
+
+	}
+	#cityimg{
+		width: 100%;
+		height: 64%;
+		position: relative;
+
+	}
+	#cityimg:hover{
+		opacity: 50%;
+	}
+
+
+	body{
+
+
+		background: url(https://clck.ru/gd28d);
+
+
+		background-repeat: no-repeat;
+
+
+		background-position: center;
+
+
+		background-attachment: fixed;
+
+
+		background-size: cover;
+
+
+	}
+
+
+	.citytext{
+
+
+		text-align: center;
+
+
+		position: relative;
+
+
+		bottom: 7px;
+
+
+	}
+
+
+	.citytext1{
+
+
+		position: relative;
+
+
+		text-align: center;
+
+
+		bottom: 25px;
+
+
+	}
+
+
+	#imgcity1{
+
+
+		position: relative;
+
+
+		width: /*310px;*/100%;
+
+
+		height: 258px;
+
+
+		bottom: 30px;
+
+
+	}
+
+
+	.city2{
+		
+		align-items: center;
+
+		flex-direction: row;
+
+		float: left;
+
+
+		position: relative;
+
+
+		width: 267.5px;
+
+
+		height: 300px;
+
+
+		border: 1px solid white;
+
+
+		top: 320px;
+		background-color: #000066;
+		color: white;
+	}
+	.city2 a{
+		display: block;
+		text-align: center;
+		height: 100%;
+
+	}
+	.city2text{
+
+
+		text-align: center;
+
+
+		position: relative;
+
+
+		bottom: 7px;
+
+
+	}
+
+
+	.city2text1{
+
+
+		position: relative;
+
+
+		text-align: center;
+
+
+		bottom: 25px;
+	}
+	.city2:hover{
+		transition: 0.7s;
+		color: #000066;
+		background-color: white;
+	}
+	a:hover{
+		transition: 0.7s;
+		color: #000066;
+		opacity: 70%;
+	}
+
+
+
+
+
+
+
+
+
+
